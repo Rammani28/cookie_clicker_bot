@@ -38,7 +38,7 @@ It should be running now. If not make sure the variable 'PATH' in the main.py is
 
 ## Contributing
 
-Pull requests are welcome. If you have any idea, you can comment in the discussion.
+Pull requests and any suggestions are welcome.
 
 
 
